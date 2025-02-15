@@ -1,6 +1,8 @@
-css diner:
+**css diner:**
 https://flukeout.github.io/
 
+**Selectors_Tasks:**
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Basic_selectors/Selectors_Tasks
 
 
 Here are **10 beginner-friendly projects** you can build using only HTML and CSS. These projects will help you practice your skills and improve your understanding of web development fundamentals:
